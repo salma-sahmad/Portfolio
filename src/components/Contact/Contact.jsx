@@ -29,7 +29,7 @@ const Contact = () => {
           <BsWhatsapp className='contact_option-icon'/>
           <h4>Whatsapp</h4>
           <h5>salma sahmad</h5>
-          <a href="https://api.whatsapp.com/send?phone=+2120653195097" target='_blank'> Send a Message</a>
+          <a href="https://api.whatsapp.com/send?phone=+2125352424" target='_blank'> Send a Message</a>
         </article>
         {/*end of contact option */ }
       </div>
